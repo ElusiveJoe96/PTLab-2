@@ -1,3 +1,4 @@
 # PTLab-2
 Сборка Maven 
-Зависимости Spring boot -> 
+Язык Java 17
+Зависимости Spring boot -> Spring Mvc, Tomcat, hibernate.validator, thymeleaf
